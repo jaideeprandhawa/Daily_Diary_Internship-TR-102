@@ -14,4 +14,6 @@ Topics covered by me with respect to the dates.
 19 June 24 : Were given a website link to analyse, study and implement a sample simulation environment using pygame. Link : https://medium.com/agents-and-robots/a-multi-agent-system-in-python-74701f256c3a
 20 June 24 : Were given the task to analyse the action space and state space of the research paper and told to make chamges in the simulation created before as per the research papers.
 21 June 24 : Sterted learning and understanding about the simulation environment and started doing changes in it as per the paper.
+24 June 24 : Analysed the Action space , state space and rewarding in paper 1 and created a simulation for the same.
+25 June 24 : Started studying and analysing the Implementation of DRL in paper 1 and trying to avoid collisions between evadors as well between pursuers and evadors.
  
