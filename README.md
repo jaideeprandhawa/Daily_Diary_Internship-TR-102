@@ -16,4 +16,6 @@ Topics covered by me with respect to the dates.
 21 June 24 : Sterted learning and understanding about the simulation environment and started doing changes in it as per the paper.
 24 June 24 : Analysed the Action space , state space and rewarding in paper 1 and created a simulation for the same.
 25 June 24 : Started studying and analysing the Implementation of DRL in paper 1 and trying to avoid collisions between evadors as well between pursuers and evadors.
- 
+26 June 24 : Created a simulation that avoided collisons within evadors as well as collisions with agents and evadors using direct approach.<br>
+27 June 24 : Tried to implement the DRL approaches like DDPG and PPO to avoid collisons.<br>
+28 June 24 : Continued working on implementation of DRL approaches. 
