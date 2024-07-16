@@ -19,6 +19,11 @@ Topics covered by me with respect to the dates.
 26 June 24 : Created a simulation that avoided collisons within evadors as well as collisions with agents and evadors using direct approach.<br>
 27 June 24 : Tried to implement the DRL approaches like DDPG and PPO to avoid collisons.<br>
 28 June 24 : Continued working on implementation of DRL approaches. 
+1 July 24 : Studied about the implementation of DRL approaches using various python libraries and modules.<br>
+2 July 24 : Started creating the simulation for evasive strategy by defining the model features of PPO on my own.<br>
+3 July 24 : Continued working on the same.<br>
+4 July 24 : Showed the basic layout made so far to the instructor and took the feedback and recommendations.<br>
+5 July 24 : Studied more about how models are implemeted without pre-defined libraries and how models are saved.<br>
 8 July 24 : Made further changes in my implementation so that evadors avoid pursuers and the inter-evador collisons.<br>
 9 July 24 : Continued working on the same.<br>
 10 July 24 : It had many errors , so took the help from the instructor.<br>
