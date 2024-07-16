@@ -1,5 +1,5 @@
-<h1>Topics covered by me with respect to the dates.</h1>
-3 June 24 : It was our Day 1 of Internship. We were given briefing about the flow of internship, Ongoing Projects, Topics to be covered, Prerequisites, etc. by our Internship Supervisor Dr. Muneendra Ojha.<br>
+<h1>My Internship schedule at Indian Institute of Information Technology, Allahabad.</h1>
+3 June 24 : It was our Day 1 of Internship. We were given briefing about the flow of internship, Ongoing Projects, Topics to be covered, Prerequisites, etc. by our Internship Supervisor <b>Dr. Muneendra Ojha</b>.<br>
 4 June 24 : Linear regression, logistic regression (loss functions).<br>
 5 June 24 : Artificial Nueral Networks.<br>
 6 June 24 : Learnable parameters in neural nets: weights and biases.<br>
