@@ -19,3 +19,8 @@ Topics covered by me with respect to the dates.
 26 June 24 : Created a simulation that avoided collisons within evadors as well as collisions with agents and evadors using direct approach.<br>
 27 June 24 : Tried to implement the DRL approaches like DDPG and PPO to avoid collisons.<br>
 28 June 24 : Continued working on implementation of DRL approaches. 
+8 July 24 : Made further changes in my implementation so that evadors avoid pursuers and the inter-evador collisons.<br>
+9 July 24 : Continued working on the same.<br>
+10 July 24 : It had many errors , so took the help from the instructor.<br>
+11 July 24 : Instructor directed to change the approach by using some python library to implement model since it is preffered. So, started studying about python libraries for implementation of my desired model i.e. PPO.<br>
+12 July 24 : After collecting and researching, found a renowned python library named stable baselines 3 for my model's implementation. Started reading about it's implementation in the code.<br>
